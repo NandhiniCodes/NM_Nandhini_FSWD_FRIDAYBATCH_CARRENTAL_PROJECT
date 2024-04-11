@@ -1,22 +1,22 @@
-# NM_FRIDAYBATCH_FSWD_PROJECT
+ # NM_FRIDAYBATCH_FSWD_PROJECT
 
 
 Project implemented by: 
 
 
-Name:
+Name: Nandhini I
 
 
-ID:
+ID: au960221104077
 
 
-College name:
+College name: Arunachala College Of Engineering For Women
 
 
 Login credentials: 
 
-username: root
+username: meena
 
 
-Password: root
+Password: meena2024
 
